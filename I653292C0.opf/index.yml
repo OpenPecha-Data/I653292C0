@@ -1,0 +1,47 @@
+id: 2781a9366fc347a08e1d33bd6eda2100
+annotation_type: index
+revision: '00001'
+annotations:
+  cacc8e2cc3754c38a950ba2d26b7c533:
+    base: 70EB.txt
+    Chapters:
+    - title: Title
+      span:
+        start: 0
+        end: 19
+    - title: Homage
+      span:
+        start: 20
+        end: 123
+    - title: Short §1
+      span:
+        start: 124
+        end: 271
+    - title: Short §2
+      span:
+        start: 272
+        end: 548
+    - title: Short §3
+      span:
+        start: 549
+        end: 595
+    - title: Short §4
+      span:
+        start: 596
+        end: 667
+    - title: Short §5
+      span:
+        start: 668
+        end: 706
+    - title: Short §6
+      span:
+        start: 707
+        end: 785
+    - title: Short §7
+      span:
+        start: 786
+        end: 934
+    - title: Colophon
+      span:
+        start: 935
+        end: 961
